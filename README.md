@@ -1,8 +1,11 @@
-#======= Simply injects a JavaScript Payload into a BMP. ====================================================#
-#======= The resulting BMP must be a valid (not corrupted) BMP. =============================================#
-#======= Author: B@n@n0nam3 ==================================================================#
-#======= Version: PoC (don't even think to use it in development env.) ======================================#
-#======= Disclaimer: ========================================================================================#
+```
+## ======= Simply injects a JavaScript Payload into a BMP. ==================================================== ##
+## ======= The resulting BMP must be a valid (not corrupted) BMP. ============================================= ##
+## ======= Author: B@n@n0nam3 ================================================================== ##
+## ======= Version: PoC (don't even think to use it in development env.) ======================================## 
+## ======= Disclaimer: ========================================================================================##
+```
+```
 #THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
 #IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 #WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -14,3 +17,4 @@
 #STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
 #IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 #POSSIBILITY OF SUCH DAMAGE.
+```
